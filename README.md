@@ -55,10 +55,4 @@ This project demonstrates how even a **minimal dataset** can yield **critical bu
 - Interpret customer value distributions
 - Translate technical results into **actionable business strategy**
 
----
 
-## 📁 Repository Structure
-
-├── retail_sales_dataset.xlsx # Raw data
-├── retail_sales_analysis.ipynb # Python notebook with full analysis
-└── README.md # This file
