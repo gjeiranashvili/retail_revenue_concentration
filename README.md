@@ -59,3 +59,6 @@ This project demonstrates how even a **minimal dataset** can yield **critical bu
 
 ## 📁 Repository Structure
 
+├── retail_sales_dataset.xlsx # Raw data
+├── retail_sales_analysis.ipynb # Python notebook with full analysis
+└── README.md # This file
